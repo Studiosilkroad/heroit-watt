@@ -1,0 +1,145 @@
+<mjml>
+  <mj-head>
+  <mj-title>Smart Start</mj-title>
+  </mj-head>
+    <mj-body background-color="#f6f6f6">
+      
+      <!---View in browswer-->
+      <!-- <mj-section background-color="#f6f6f6" border="none">
+        <mj-column>
+  
+  
+          <mj-text font-size="12px" color="#000000" font-family="Lato,Verdana,sans-serif" align="right" text-decoration="none"><a href="#" taregt="_blank" style="text-decoration: none; color: inherit;">VIEW IN BROWSER</a></mj-text>
+  
+        </mj-column>
+      </mj-section> -->
+      
+      
+      <!--header-->
+      
+      <mj-section background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
+        <mj-column>
+  
+  
+          <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/pzjbQZV/header-white.png" href="https://www.hw.edu.my" target="_blank" width="600px"></mj-image>
+
+        </mj-column>
+      </mj-section>
+      
+      <!---BANNER-->
+      <mj-section background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
+        <mj-column>
+  
+  
+          <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/6sRwn8V/Start-Smart-banner.jpg" target="_blank" width="600px"></mj-image>
+
+        </mj-column>
+      </mj-section>
+      
+      
+    <!---BODY-->
+      <mj-section background-color="#ffffff" border="none" padding-bottom="0" >
+        <mj-column width="100%">
+          
+          
+          <mj-text font-size="13px" font-weight="300" color="#003C71" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;"  line-height="20px">Dear xxx,</mj-text>
+          <mj-spacer height="0px" />
+          <mj-text font-size="13px" font-weight="300" color="#003C71" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;"  line-height="20px">Thank you for your interest in our Start Smart January 2022 workshop.</mj-text>
+          <mj-spacer height="0px" />
+          <mj-text font-size="13px" font-weight="300" color="#003C71" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;"  line-height="20px"> You calendar should be marked for our event on:</mj-text>
+           <mj-spacer height="0px" />
+          <mj-text font-size="13px" font-weight="300" color="#003C71" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;"  line-height="20px"> <strong>22 January 2022, Saturday <br/>9.30am-12pm<br/>Via Zoom Platform: <a href="https://zoom.us/j/94636225900" target="_blank" style="color: #009ADA; text-decoration: underline;">https://zoom.us/j/94636225900</a><br/>Meeting ID: 946 3622 5900</strong></mj-text>  
+          <mj-spacer height="0px" />
+          <mj-text font-size="13px" font-weight="300" color="#003C71" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;"  line-height="20px"> If your friends and family are interested, please invite them too! <br/>Seats are limited, so please get them to register by today! </mj-text>  
+        
+         <!--register now cta-->
+        
+        <mj-image align="center" href="https://intake.hw.edu.my/start-smart/ " target="_blank" padding-bottom="20px" padding-left="0px" padding-right="0px" padding-top="20px"  src="https://i.ibb.co/mhXnfy3/register-cta-up.png" target="_blank" width="200px"></mj-image>
+
+        <mj-spacer height="0px" />
+        <mj-text font-size="13px" font-weight="300" color="#003C71" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;"  line-height="20px"> Thank you again and we look forward to seeing you this Saturday!</mj-text>  
+
+        <mj-spacer height="0px" />
+        <mj-text font-size="13px" font-weight="300" color="#003C71" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;"  line-height="20px"> Warm regards,<br/>Associate Professor Low <br/>Head, Malaysia Foundation Programmes </mj-text>  
+          <mj-spacer height="20px" />
+
+        </mj-column>
+
+
+        </mj-section>
+
+
+
+          
+
+
+      
+      <!---SOCIAL-->
+
+      <mj-section background-color="#003C71" padding-bottom="0px" padding-top="20px">
+      <mj-column width="100%" padding-left="0px" padding-right="0px" padding-bottom="0px">
+          
+        <mj-text font-size="14px" color="#ffffff" font-weight="900" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;"  line-height="18px">Follow us on</mj-text>
+        </mj-column>
+        <mj-column width="100%" padding="0">
+          <mj-social font-size="15px" icon-size="40px" mode="horizontal" padding="0" align="center">
+            <mj-social-element padding="0 15px" src="https://i.ibb.co/MRqV549/facebook.png" href="https://www.facebook.com/hwumalaysia">
+            </mj-social-element>
+            <mj-social-element padding="0 15px"  src="https://i.ibb.co/bXz0hVm/linkedin.png" href="https://www.linkedin.com/school/heriot-watt-university-malaysia/">
+            </mj-social-element>
+            <mj-social-element padding="0 15px" src="https://i.ibb.co/84bZ14T/instagram.png" href="https://www.instagram.com/heriotwattmalaysia/">
+            </mj-social-element>
+            <mj-social-element padding="0 15px"  src="https://i.ibb.co/p123DGL/youtube.png" href="https://www.youtube.com/channel/UCF8UPw6wztmd3hg6JNA_KLg">
+            </mj-social-element>
+          </mj-social>
+          
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#003C71" padding-bottom="0px" padding-top="10px" padding-right="0px" padding-left="0px">
+
+        <mj-column width="100%" padding-left="10px" padding-right="10px" padding-bottom="0px">
+          
+        <mj-text font-size="13px" color="#ffffff" font-weight="300" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;"  line-height="18px">Find contact details, maps and directions for:</mj-text>
+        </mj-column>
+
+        </mj-section>
+        <mj-section background-color="#003C71" padding-bottom="20px" padding-top="0px" padding-right="30px" padding-left="30px">
+
+        <mj-column width="30%">
+          <mj-image href="https://www.hw.ac.uk/uk/about/contact/maps-directions.htm?dm_t=0,0,0,0,0" src="https://i.ibb.co/n1vzSHp/link-1.png" alt="uk campus" width="500px" padding="0 0 0 0"></mj-image>
+          
+        </mj-column>
+        <mj-column width="36%">
+          <mj-image href="https://www.hw.ac.uk/malaysia/about/contact-us.htm?dm_t=0,0,0,0,0" src="https://i.ibb.co/9YRv4kK/link-2.png" alt="malaysia campus" width="500px" padding="0 10px 0 0"></mj-image>
+          
+        </mj-column>
+        <mj-column width="30%">
+          <mj-image href="https://www.hw.ac.uk/dubai/visit-us.htm?dm_t=0,0,0,0,0" src="https://i.ibb.co/4fdz4m5/link-3.png" alt="dubai campus" width="500px" padding="0 0 0 0"></mj-image>
+          
+        </mj-column>
+
+        <mj-column width="100%" padding-left="0px" padding-right="0px" padding-bottom="0px">
+          
+        <mj-text font-size="13px" color="#ffffff" font-weight="900" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;"  line-height="18px">Heriot-Watt University Malaysia (DULN007(WP))<br/>No. 1, Jalan Venna P5/2, Precinct 5, Putrajaya, Wilayah Persekutuan, <br/>62200 Putrajaya, Malaysia. <br/>Tel:&nbsp;+603&nbsp;8894&nbsp;3888</mj-text>
+        
+        </mj-column>
+
+        <mj-column width="100%" padding-left="10px" padding-right="10px" padding-bottom="0px">
+          
+        <mj-text font-size="11px" color="#ffffff" font-weight="300" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;"  line-height="18px">Scottish registered charity number: SC000278</mj-text>
+        </mj-column>
+
+
+
+   
+        
+         
+      </mj-section>
+      
+
+
+      
+      
+    </mj-body>
+  </mjml>
