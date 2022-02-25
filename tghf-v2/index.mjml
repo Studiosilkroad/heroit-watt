@@ -64,8 +64,8 @@
         <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/nnzC3G1/speaker-1.png" target="_blank" width="600px"></mj-image>
         <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/Y25pbT9/speaker-2.png" target="_blank" width="600px"></mj-image>
         <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/BgzQ3QG/speaker-3.png" target="_blank" width="600px"></mj-image>
-        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="10px"  src="https://i.ibb.co/dBDJsTT/gift.png" target="_blank" width="600px"></mj-image>
-         <mj-spacer height="0px" />
+        
+         <mj-spacer height="50px" />
      </mj-column>
 
         </mj-section>
@@ -74,11 +74,11 @@
     <mj-section background-color="#00B5EF" border="none" padding-bottom="0" padding-top="0">
         <mj-column width="100%">
    
-        
-        
+         <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="10px"  src="https://i.ibb.co/ydDxRkm/event.png" target="_blank" width="600px"></mj-image>
+        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="10px"  src="https://i.ibb.co/W0hzQ13/gift-1.png" target="_blank" width="600px"></mj-image>
         <mj-text font-size="22px" font-weight="700" color="#ffffff" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;"  line-height="30px">And stay on till the end for <br/>our Mystery Gift giveaway!</mj-text>
         <mj-spacer height="10px" />
-        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/n7jX1xS/cta.png" href="https://intake.hw.edu.my/happiness/" target="_blank" width="600px"></mj-image>
+        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/hX9qCbF/cta.png" href="https://intake.hw.edu.my/happiness/" target="_blank" width="600px"></mj-image>
 
         <mj-text font-size="16px" font-weight="300" color="#003C71" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;"  line-height="20px">Let's all laugh together towards happiness.</mj-text>
         
