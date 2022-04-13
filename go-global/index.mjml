@@ -31,7 +31,7 @@
         <mj-column>
   
   
-          <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/R4m3RRs/banner.png" target="_blank" width="600px"></mj-image>
+          <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/Fx7gGzt/banner.png" target="_blank" width="600px"></mj-image>
 
         </mj-column>
       </mj-section>
@@ -47,7 +47,6 @@
 
         <mj-spacer height="0px" />
          <mj-text font-size="18px" font-weight="700" color="#ffffff" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  line-height="22px" padding-left="30px" padding-right="30px"> Go.<br/>Go places.
-          <br/>Go out of your comfort zone.
           <br/>Go live like a local in a new country.
           <br/>Go meet new people.
           <br/>Go experience a life you never thought you could.
@@ -55,7 +54,6 @@
           <br/>Go on foodie adventures.
           <br/>Go on tropical treks.
           <br/>Go absorb new colourful cultures.
-          <br/>Go ahead and say "lah" after every sentence.
           <br/>Go make friendships that'll shape you for life.
           <br/>Go to Truly Asia Malaysia.</mj-text>
           <mj-image align="left" padding-bottom="0px" padding-left="30px" padding-right="0px" padding-top="10px"  src="https://i.ibb.co/dBYM5mh/go-global.png" target="_blank" width="200px"></mj-image>
@@ -72,9 +70,11 @@
         <mj-column width="100%">
         <mj-text font-size="15px" font-weight="300" color="#5F259F" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;"  line-height="22px" padding-left="30px" padding-right="30px"> Go Global is our inter-campus transfer programme, available only for Heriot-Watt University students like you, <strong>(first name)</strong>.
 
-            <br/><br/>It allows you to carry your studies abroad seamlessly for a semester, a year, or even longer. Whatever works best for you.
+            <br/><br/>It allows you to carry your studies abroad seamlessly for a semester, a year, or even longer. Whatever works best for you.*
 
             <br/><br/>You'll still graduate with the same prestigious Heriot-Watt University degree qualification. And as our values and teaching methods are the same, you can expand your horizons with this unique opportunity without any interruption to your studies.</mj-text>
+          
+          <mj-text font-size="12px" font-weight="300" color="#5F259F" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;"  line-height="22px" padding-left="30px" padding-right="30px"> *Subject to programme availability</mj-text>
           <mj-spacer height="20px" />
          <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="10px"  src="https://i.ibb.co/q08hNkt/items.png" target="_blank" width="600px"></mj-image>
           
