@@ -1,6 +1,6 @@
 <mjml>
   <mj-head>
-  <mj-title>Flexible Foundation Programme</mj-title>
+  <mj-title>Events</mj-title>
   </mj-head>
     <mj-body background-color="#f6f6f6">
       
@@ -42,11 +42,8 @@
         <mj-column width="100%">
           
           
-          <mj-text font-size="16px" font-weight="300" color="#14191F" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;"  line-height="22px">Congratulations on your excellent results!
-
-<br/><br/>All SPM leavers, you have the assurance that our <strong>flexible Foundation Programme</strong> can be personalised to meet your specific needs. At Heriot-Watt University Malaysia, you can start the next stage of your life with ease and on your own terms.
-
-<br/><br/>Our <strong>Foundation Programme</strong> offers an advantage no other programme has - <strong>flexibility</strong>. Allowing you to customise the programme, in order to fit your needs.</mj-text>  
+          <mj-text font-size="16px" font-weight="300" color="#14191F" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;"  line-height="22px">We have had a successful Open Day! 
+<br/><br/>If you have missed us this round, then we will see you at Sureworks Education Fair on <strong>25 &amp; 26 June 2022</strong> at Mid Valley Exhibition Centre at <strong>Kuala Lumpur and Johor Bahru</strong> from <strong>11am to 6pm</strong>. Do drop by to chat with our academics and education consultants! </mj-text>  
           <mj-spacer height="20px" />
          
         </mj-column>
@@ -58,28 +55,60 @@
 
         <!--programme-->
 
-        <mj-section background-color="#FFFFFF" border="none" padding-bottom="0" padding-left="0px" padding-right="0px" >
-        <mj-column width="100%">
-        <mj-text font-size="17px" font-weight="700" color="#003C71" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;"  line-height="22px">FLEXIBLE FOUNDATION PROGRAMME</mj-text>
-        <mj-spacer height="30px" />
-        <mj-image align="center"  padding-bottom="0px" padding-left="26px" padding-right="26px" padding-top="0px"  src="https://i.ibb.co/LnZ92cF/programme.jpg" width="600px"></mj-image>
+        <!-- <mj-section background-color="#E5F5FC" border="none" padding-bottom="0" padding-left="0px" padding-right="0px" >
+        <mj-column width="50%">
+        
+        <mj-image align="center"  padding-bottom="0px" padding-left="26px" padding-right="26px" padding-top="0px"  src="https://i.ibb.co/W3J4Pgd/cta-1.png" width="500px" href="https://intake.hw.edu.my/jumpstart-camp/" target="_blank"></mj-image>
         <mj-spacer height="30px" />
         
         </mj-column>
 
-       
+        <mj-column width="50%">
+        <mj-image align="center"  padding-bottom="0px" padding-left="26px" padding-right="26px" padding-top="0px"  src="https://i.ibb.co/YPWDTMY/cta-2.png" width="500px" href="https://intake.hw.edu.my/foundation/flexible/" target="_blank"></mj-image>
+        <mj-spacer height="20px" />
+        </mj-column>
+
+
+        </mj-section> -->
+         
+        <mj-section background-color="#E5F5FC" border="none" padding-bottom="0" padding-left="0px" padding-right="0px" >
+        <mj-column width="50%">
+        
+        <mj-image align="center"  padding-bottom="0px" padding-left="26px" padding-right="26px" padding-top="0px"  src="https://i.ibb.co/s6vXK8g/cta-3.png"width="500px" href="https://bit.ly/HWUMxSPM1" target="_blank"></mj-image>
+        <mj-spacer height="30px" />
+        
+        </mj-column>
+
+        <mj-column width="50%">
+        <mj-image align="center"  padding-bottom="0px" padding-left="26px" padding-right="26px" padding-top="0px"  src="https://i.ibb.co/KLsLxSQ/cta-4.png" width="500px" href="https://bit.ly/HWUMxSPM1" target="_blank"></mj-image>
+        <mj-spacer height="20px" />
+        </mj-column>
+
 
         </mj-section>
-         
-        
+
+         <!--date-->
+
+        <mj-section background-color="#E5F5FC" border="none" padding-bottom="0" padding-left="0px" padding-right="0px" >
+        <mj-column width="100%">
+
+        <mj-image align="left"  padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/6FT9HyS/date.png"width="600px"></mj-image>
+  
+
+
+        </mj-column>
+
+
+        </mj-section>
 
 
         <!--register now cta-->
 
         <mj-section background-color="#ffffff" border="none" padding-bottom="0" padding-left="0px" padding-right="0px" >
         <mj-column width="100%">
+        <mj-spacer height="20px" />
         
-        <mj-image align="center" href="https://www.eventbrite.com/e/heriot-watt-university-malaysias-open-day-june-2022-tickets-366201327027" target="_blank" padding-bottom="20px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/LYxYtj2/cta.jpg" target="_blank" width="250px"></mj-image>
+        <mj-image align="center" href="https://bit.ly/consulthwum" target="_blank" padding-bottom="20px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/m6g3p6f/cta.png" target="_blank" width="250px"></mj-image>
       <mj-spacer height="20px" />
         
   </mj-column>
