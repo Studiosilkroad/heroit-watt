@@ -1,6 +1,6 @@
 <mjml>
   <mj-head>
-  <mj-title>Welcome MFP</mj-title>
+  <mj-title>Welcome UG</mj-title>
   </mj-head>
     <mj-body background-color="#f6f6f6">
       
@@ -37,30 +37,63 @@
       </mj-section>
       
       
-    <!---BODY-->
-      <mj-section background-color="#E5F5FC" border="none" padding-bottom="0" padding-left="30px" padding-right="30px" >
+   <!---BODY-->
+      <mj-section background-color="#E5F5FC" border="none" padding-bottom="0" padding-left="5px" padding-right="5px" >
         <mj-column width="100%">
           
           
           <mj-text font-size="16px" font-weight="300" color="#14191F" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  line-height="22px">Dear &#40;<strong>first name</strong>&#41;,
 
-<br/><br/>Congratulations and welcome to <strong>Heriot-Watt University Malaysia</strong>! We are excited to have you and honoured that you have chosen to be part of our flourishing global community. 
-
-<br/><br/>Established in 1821, our university has always believed in the potential
-of our students and many aspiring youths, just like yourself, have undertaken their educational journeys with us to become successful and impactful individuals. While you are here, you will notice the vibrant and engaging atmosphere we try to develop for our community, both staff and students. This is because we believe in the importance of cultivating an environment where you can thrive, and most importantly, be happy to truly develop your potential and have a successful future.
-I owe this to the amazing team of people who are behind our '#<strong>AHappierYou</strong>' initiatives. 
-
-<br/><br/>One specific programme that I wish to draw your attention to is the
-<strong>Fit For Future Programme</strong> which will commence on 29 August 2022 and has been developed to help you identify your strengths, passion and potential. This will help you a great deal in your transition from school
-to university.
-
-<br/><br/>We are committed to putting our students at the heart of everything that we do, and I am looking forward to welcoming you in person soon.</mj-text>  
-          <mj-spacer height="20px" />
-         
-        </mj-column>
-        </mj-section>
+<br/><br/>Congratulations and welcome to the <strong>Heriot-Watt University Malaysia</strong> community! You have made the best decision to begin your education journey here with us and we are excited to be welcoming you this September 2022 intake. </mj-text>
 
 
+ </mj-column>
+  </mj-section>
+
+<!--2-->
+<mj-section background-color="#E5F5FC" border="none" padding-bottom="0" padding-top="0" padding-left="5px" padding-right="5px" >
+<mj-column width="65%">
+          
+<mj-text padding-top="0" padding-bottom="0" font-size="16px" font-weight="300" color="#14191F" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  line-height="22px">Heriot-Watt University, established in 1821, is one of the top UK universities in Malaysia with roots in Scotland. We have an international reach with campuses here in Malaysia, Dubai and in UK, offering you the opportunity of a truly global learning experience especially under our <strong>Go Global inter-campus transfer programme</strong>. </mj-text>  
+</mj-column>
+
+
+  <mj-column width="35%">
+    <mj-image align="center" href="https://youtu.be/K77K5geJ0x0" target="_blank" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/0Vk8YPC/video.png" target="_blank" width="400px"></mj-image>
+    <mj-spacer height="0" />
+  </mj-column>
+
+  
+
+  </mj-section>
+
+<!---3-->
+<mj-section background-color="#E5F5FC" border="none" padding-top="0" padding-bottom="0" padding-left="5px" padding-right="5px" >
+    <mj-column width="100%" padding-top="0" padding-bottom="0">
+      <mj-spacer height="0" />
+      <mj-text padding-top="0" font-size="16px" font-weight="300" color="#14191F" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none" line-height="22px">As you start your journey in Malaysia, we encourage you to see yourself as a member of the 30,000 students we have in our community across the globe. </mj-text>
+
+    </mj-column>
+    </mj-section>
+
+  
+
+
+<!--4-->
+
+<mj-section background-color="#E5F5FC" border="none" padding-top="0" padding-bottom="0" padding-left="5px" padding-right="5px" >
+    <mj-column width="100%">
+      
+      
+      <mj-text font-size="16px" font-weight="300" color="#14191F" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  line-height="22px">One of the interesting facts about us is our state-of-the-art lakeside campus in Putrajaya, the first "<strong>green campus</strong>" in Malaysia, catering to a global network of students, scholars and alumni. 
+
+        <br/><br/>In Heriot-Watt, we believe our "<strong>Positive Education</strong>" approach that focuses beyond academic excellence helps to promote your holistic development, to better understand yourself, discover a sense of purpose and mobilise that purpose into impact, not just in your education journey, but in your life. This will shape you into a purpose-driven leader that is highly sought-after by the industry. 
+
+        <br/><br/>We are committed in putting our students at the heart of everything that we do, and I am looking forward to be welcoming you in person soon.</mj-text>
+
+
+    </mj-column>
+    </mj-section>
         
 
 
@@ -71,7 +104,7 @@ to university.
 
        
         
-        <mj-image align="center"  padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/2tXmScN/info-2.png" width="600px" ></mj-image>
+        <mj-image align="center"  padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/Svts0t3/info-2.png" width="600px" ></mj-image>
       
         
         </mj-column>
@@ -91,7 +124,7 @@ to university.
         <mj-spacer height="20px" />
 
          <mj-text font-size="14px" font-weight="300" color="#000000" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;"  line-height="22px"><strong>Watch the video:</strong>
-<br/><a href="https://youtu.be/ntNh0O_P_Qo" target="_blank" style="color: #000; text-decoration: none;">https://youtu.be/ntNh0O_P_Qo</a></mj-text>
+<br/><a href="https://youtu.be/ntNh0O_P_Qo" target="_blank" >https://youtu.be/ntNh0O_P_Qo</a></mj-text>
         
         <mj-image align="center" href="https://youtu.be/ntNh0O_P_Qo" target="_blank" padding-bottom="20px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/0Vk8YPC/video.png" target="_blank" width="400px"></mj-image>
       <mj-spacer height="20px" />
