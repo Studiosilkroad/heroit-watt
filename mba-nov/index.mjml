@@ -43,7 +43,7 @@
           
           
           
-          <mj-text font-size="15px" font-weight="300" color="#000000" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;"  line-height="20px">From flexibility to why one should pursue an MBA, join Associate Professor <strong>Jay Wasim</strong>, Head of Business and Management School, Heriot-Watt University Malaysia for our MBA Preview this 26 November 2022.
+          <mj-text font-size="15px" font-weight="300" color="#000000" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;"  line-height="20px">From flexibility to why one should pursue an MBA, join Associate Professor <strong>Jay Wasim</strong>, Head of Business and Management School, Heriot-Watt University Malaysia for our MBA Preview this <strong>26 November 2022</strong>.
 
 <br/><br/>Together with his esteem colleagues, they will also share insights on <strong>HWUMANising Business with MBA</strong>, that are key to you and your organisation. Get an insight into studying MBA at Heriot-Watt University Malaysia by joining our MBA Preview class for free!
 
@@ -71,23 +71,23 @@ of higher education from bachelors to PhD. He also brings his experience of cons
          <mj-text padding-bottom="0px"font-size="18px" font-weight="300" color="#ffffff" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;"  line-height="25px"><strong style="color:#237DC8;">MBA Preview Programme for the day:
 </strong> </mj-text>
 
- <mj-table font-size="18px" font-weight="300" color="#ffffff" font-family="Lato,Verdana,sans-serif" align="center" padding-top="0" padding="0 0px" line-height="20px">
- <tr style="font-weight: 300;">
- <td width="22%"></td>
- <td width="70%">&#x2022; 10am - 11.30am : MBA Preview</td>
- <td width="22%"></td>
+ <mj-spacer height="10px" />
+ <mj-table font-size="18px" font-weight="300" color="#ffffff" font-family="Lato,Verdana,sans-serif" align="center" padding-top="0" padding="0 20px" line-height="20px">
+ <tr style="font-weight: 300; border: 1px solid #ffff;">
+ <td width="35%" style="border-right: 1px solid #fff; padding: 10px"> 10am - 11.30am</td>
+ <td width="65%" style="padding: 10px;"> MBA Preview</td>
  </tr>
 
-  <tr style="font-weight: 300;">
- <td width="22%"></td>
- <td>&#x2022; 11.30am - 1pm : Lunch &#40;Will be provided&#41;</td>
- <td width="22%"></td>
+  <tr style="font-weight: 300; border: 1px solid #ffff">
+ <td width="30%" style="border-right: 1px solid #fff; padding: 10px"> 11.30am - 1pm </td>
+ <td style="padding: 10px;"> Lunch &#40;Will be provided&#41;</td>
+
  </tr>
 
-  <tr style="font-weight: 300;">
- <td width="22%"></td>
- <td>&#x2022; 1pm - 2pm : MBA Class Preview</td>
- <td width="22%"></td>
+  <tr style="font-weight: 300; border: 1px solid #ffff">
+ <td width="30%" style="border-right: 1px solid #fff; padding: 10px">1pm - 2pm</td>
+ <td style="padding: 10px;"> MBA Class Preview</td>
+
  </tr>
  
 <br/>
