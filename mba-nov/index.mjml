@@ -39,7 +39,7 @@
       
     <!---BODY-->
       <mj-section background-color="#ffffff" border="none" padding-bottom="0" >
-        <mj-column width="100%" padding-left='32px' padding-right='32px'>
+        <mj-column width="100%" padding-left='3px' padding-right='32px'>
           
           
           
@@ -47,7 +47,7 @@
 
 <br/><br/>Together with his esteem colleagues, they will also share insights on <strong>HWUMANising Business with MBA</strong>, that are key to you and your organisation. Get an insight into studying MBA at Heriot-Watt University Malaysia by joining our MBA Preview class for free!
 
-<br/><br/<>With a Masters in Innovation Management and Entrepreneurship and a PhD in Strategy, Enterprise and Innovation, Dr Wasim is a Fellow of the Royal Society of Arts and a Fellow of the Advance HE &#40; formerly Higher Education Academy&#41; who teaches and supervises students at all levels
+<br/><br/>With a Masters in Innovation Management and Entrepreneurship and a PhD in Strategy, Enterprise and Innovation, Dr Wasim is a Fellow of the Royal Society of Arts and a Fellow of the Advance HE &#40; formerly Higher Education Academy&#41; who teaches and supervises students at all levels
 of higher education from bachelors to PhD. He also brings his experience of consulting on growth and diversification of products and markets with businesses of all sizes, operating in several different sectors.</mj-text>
          <mj-spacer height="30px" />
        
@@ -55,9 +55,9 @@ of higher education from bachelors to PhD. He also brings his experience of cons
         </mj-column>
         </mj-section>
 
-
+<!--new sec-->
         <mj-section background-color="#003C71" border="none" padding-bottom="0" >
-        <mj-column width="100%" padding-left='32px' padding-right='32px'>
+        <mj-column width="100%" padding-left='36px' padding-right='32px'>
        
         
        
@@ -68,12 +68,30 @@ of higher education from bachelors to PhD. He also brings his experience of cons
          
          <mj-spacer height="10px" />
 
-         <mj-text font-size="18px" font-weight="300" color="#ffffff" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;"  line-height="25px"><strong style="color:#237DC8;">MBA Preview Programme for the day:
-</strong> <br/>• 10am - 11.30am : MBA Preview
-<br/>• 11.30am - 1pm : Lunch &#40;Will be provided&#41;
-<br/>• 1pm - 2pm : MBA Class Preview
+         <mj-text padding-bottom="0px"font-size="18px" font-weight="300" color="#ffffff" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;"  line-height="25px"><strong style="color:#237DC8;">MBA Preview Programme for the day:
+</strong> </mj-text>
 
-        </mj-text>
+ <mj-table font-size="18px" font-weight="300" color="#ffffff" font-family="Lato,Verdana,sans-serif" align="center" padding-top="0" padding="0 0px" line-height="20px">
+ <tr style="font-weight: 300;">
+ <td width="20%"></td>
+ <td>• 10am - 11.30am : MBA Preview</td>
+ <td width="20%"></td>
+ </tr>
+
+  <tr style="font-weight: 300;">
+ <td width="20%"></td>
+ <td>• 11.30am - 1pm : Lunch &#40;Will be provided&#41;</td>
+ <td width="20%"></td>
+ </tr>
+
+  <tr style="font-weight: 300;">
+ <td width="20%"></td>
+ <td>• 1pm - 2pm : MBA Class Preview</td>
+ <td width="20%"></td>
+ </tr>
+ 
+<br/>
+<br/></mj-table>
 
          
          <mj-spacer height="10px" />
@@ -85,14 +103,14 @@ of higher education from bachelors to PhD. He also brings his experience of cons
         <mj-spacer height="20px" />
 
 
-         <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/WKs1H07/attendance.png"  target="_blank" width="400px"></mj-image>
+         <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/W2PTSyw/attendance.png"  target="_blank" width="400px"></mj-image>
 
 
          
          <mj-spacer height="30px" />
 
 
-         <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/gMJxNtt/cta.png" href="#" target="_blank" width="200px"></mj-image>
+         <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/gMJxNtt/cta.png" href="https://bit.ly/MBA26Nov" target="_blank" width="200px"></mj-image>
 
           <mj-spacer height="50px" />
 
