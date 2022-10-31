@@ -73,21 +73,21 @@ of higher education from bachelors to PhD. He also brings his experience of cons
 
  <mj-table font-size="18px" font-weight="300" color="#ffffff" font-family="Lato,Verdana,sans-serif" align="center" padding-top="0" padding="0 0px" line-height="20px">
  <tr style="font-weight: 300;">
- <td width="25%"></td>
- <td>&#x2022; 10am - 11.30am : MBA Preview</td>
- <td width="25%"></td>
+ <td width="22%"></td>
+ <td width="70%">&#x2022; 10am - 11.30am : MBA Preview</td>
+ <td width="22%"></td>
  </tr>
 
   <tr style="font-weight: 300;">
- <td width="25%"></td>
+ <td width="22%"></td>
  <td>&#x2022; 11.30am - 1pm : Lunch &#40;Will be provided&#41;</td>
- <td width="25%"></td>
+ <td width="22%"></td>
  </tr>
 
   <tr style="font-weight: 300;">
- <td width="25%"></td>
+ <td width="22%"></td>
  <td>&#x2022; 1pm - 2pm : MBA Class Preview</td>
- <td width="25%"></td>
+ <td width="22%"></td>
  </tr>
  
 <br/>
@@ -103,7 +103,7 @@ of higher education from bachelors to PhD. He also brings his experience of cons
         <mj-spacer height="20px" />
 
 
-         <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/W2PTSyw/attendance.png"  target="_blank" width="400px"></mj-image>
+         <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/5x52FKL/attendance.png"  target="_blank" width="400px"></mj-image>
 
 
          
