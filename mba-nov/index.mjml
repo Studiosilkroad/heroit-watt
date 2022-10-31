@@ -31,7 +31,7 @@
         <mj-column>
   
   
-          <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/4MLddcM/masthead.png" target="_blank" width="600px"></mj-image>
+          <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/LYYdGWg/masthead.png" target="_blank" width="600px"></mj-image>
 
         </mj-column>
       </mj-section>
@@ -39,7 +39,7 @@
       
     <!---BODY-->
       <mj-section background-color="#ffffff" border="none" padding-bottom="0" >
-        <mj-column width="100%" padding-left='3px' padding-right='32px'>
+        <mj-column width="100%" padding-left='32px' padding-right='32px'>
           
           
           
