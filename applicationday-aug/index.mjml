@@ -38,11 +38,11 @@
       
       
     <!---BODY-->
-      <mj-section background-color="#FFFFFF" border="none" padding-bottom="0" padding-left="36px" padding-right="36px" >
+      <mj-section background-color="#FFFFFF" border="none" padding-bottom="0" padding-left="40px" padding-right="40px" >
         <mj-column width="100%">
           
           
-          <mj-text font-size="16px" font-weight="300" color="#14191F" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;"  line-height="22px">We have had a successful Open Day on 20 &amp; 21 August!<br/><br/>If you have missed us this round, meet us at our <strong>Application Day</strong> on <strong>27 &amp; 28 August 2022</strong> from <strong>10am to 4pm</strong>. Do drop by to chat with our academics and education consultants!</mj-text>  
+          <mj-text font-size="16px" font-weight="300" color="#14191F" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;"  line-height="22px">We have had a successful Open Day on 10 &amp; 11 December 2022!<br/><br/>If you have missed us this round, meet us at our <strong>Application Day</strong> on <strong>17 &amp; 18 December 2022</strong> from <strong>10am to 4pm</strong>. Do drop by to chat with our education consultants!</mj-text>  
           <mj-spacer height="20px" />
          
         </mj-column>
@@ -76,13 +76,13 @@
         <mj-section background-color="#ffffff" border="none" padding-bottom="0" padding-left="0px" padding-right="0px" >
         <mj-column width="50%">
         
-        <mj-image align="center"  padding-bottom="0px" padding-left="26px" padding-right="26px" padding-top="0px"  src="https://i.ibb.co/kJ3v1KB/button-1.png"width="500px" href="https://www.hw.ac.uk/malaysia/visit/chat-with-an-education-consultant.htm" target="_blank"></mj-image>
+        <mj-image align="center"  padding-bottom="0px" padding-left="26px" padding-right="26px" padding-top="0px"  src="https://i.ibb.co/kJ3v1KB/button-1.png"width="500px" href="https://bit.ly/ChatwUsHWUM" target="_blank"></mj-image>
         <mj-spacer height="30px" />
         
         </mj-column>
 
         <mj-column width="50%">
-        <mj-image src="https://i.ibb.co/SNc6t2d/button-2.png" width="500px" align="center"  padding-bottom="0px" padding-left="26px" padding-right="26px" padding-top="0px"  href="https://www.hw.ac.uk/malaysia/visit/chat-with-an-education-consultant.htm" target="_blank"></mj-image>
+        <mj-image src="https://i.ibb.co/wYq64nJ/button-2.png" width="500px" align="center"  padding-bottom="0px" padding-left="26px" padding-right="26px" padding-top="0px"  href="https://www.hw.ac.uk/malaysia/visit/chat-with-an-education-consultant.htm" target="_blank"></mj-image>
         <mj-spacer height="20px" />
         </mj-column>
 
@@ -94,7 +94,7 @@
         <mj-section background-color="#ffffff" border="none" padding-bottom="0" padding-left="0px" padding-right="0px" >
         <mj-column width="100%">
 
-        <mj-image align="left"  padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/wwqRC4Q/date.png"width="600px"></mj-image>
+        <mj-image align="left"  padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/m5Z9jYL/date.png"width="600px"></mj-image>
   
 
 
@@ -110,7 +110,7 @@
         <mj-column width="100%">
         <mj-spacer height="20px" />
         
-        <mj-image align="center" href="https://bit.ly/HWUMODAug22" target="_blank" padding-bottom="20px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/hDsTqJd/cta.png" target="_blank" width="250px"></mj-image>
+        <mj-image align="center" href="https://bit.ly/ChatwUsHWUM" target="_blank" padding-bottom="20px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/hDsTqJd/cta.png" target="_blank" width="250px"></mj-image>
       <mj-spacer height="20px" />
         
   </mj-column>
