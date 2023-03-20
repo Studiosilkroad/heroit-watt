@@ -44,7 +44,7 @@
           
           <mj-text font-size="16px" font-weight="300" color="#14191F" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;"  line-height="22px">Come and see our <strong>Open Day</strong> exhibition, speak with our academics, attend workshops, talks and tour our campus!
 
-<br/><br/>Join us for an unforgettable weekend of learning, exploration, and inspiration during our <strong>Science Festival</strong>, and <strong>Engineer for a Day</strong> workshop. Get hands-on experience in cutting-edge technology and research, and discover the endless opportunities of a career in STEM. </mj-text>  
+<br/><br/>Join us for an unforgettable weekend of learning, exploration, and inspiration during our <strong>Science Festival</strong>. Get hands-on experience in cutting-edge technology and research, and discover the endless opportunities of a career in STEM. </mj-text>  
           <mj-spacer height="20px" />
          
         </mj-column>
@@ -69,7 +69,7 @@
         <mj-text font-size="16px" container-background-color="#003C71" font-weight="700" color="#ffffff" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  padding-top="25px" padding-bottom="25px" line-height="22px">Join us on-campus on:<br/><br/>
         <span style="color: #FFB500; font-weight: 700;">Date:</span> 1 &amp; 2 April 2023 <br/><br/>
         <span style="color: #FFB500; font-weight: 700;">Time:</span> 10am - 4pm<br/><br/>
-        <span style="color: #FFB500; font-weight: 700;">Venue:</span> 1 &amp; Heriot-Watt University Malaysia, Putrajaya campus3
+        <span style="color: #FFB500; font-weight: 700;">Venue:</span> Heriot-Watt University Malaysia, Putrajaya campus3
         
         </mj-text>
         
