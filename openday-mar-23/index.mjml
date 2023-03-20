@@ -127,7 +127,7 @@
         <mj-column width="100%">
         <mj-spacer height="20px" />
         
-        <mj-image align="center" href="#" target="_blank" padding-bottom="20px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/Yt6jrZv/cta.png" target="_blank" width="200px"></mj-image>
+        <mj-image align="center" href="https://bit.ly/ODApril2023" target="_blank" padding-bottom="20px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/Yt6jrZv/cta.png" target="_blank" width="200px"></mj-image>
       <mj-spacer height="20px" />
         
   </mj-column>
