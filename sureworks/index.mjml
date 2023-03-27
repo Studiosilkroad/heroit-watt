@@ -1,6 +1,6 @@
 <mjml>
   <mj-head>
-  <mj-title>Application Day</mj-title>
+  <mj-title>Sureworks</mj-title>
   </mj-head>
     <mj-body background-color="#f6f6f6">
       
@@ -38,7 +38,7 @@
       
       
     <!---BODY-->
-      <mj-section background-color="#FFFFFF" border="none" padding-bottom="0" padding-left="40px" padding-right="40px" >
+      <mj-section background-color="#E5F5FC" border="none" padding-bottom="0" padding-left="40px" padding-right="40px" >
         <mj-column width="100%">
           
           
@@ -78,7 +78,7 @@
         
 
          
-        <mj-section background-color="#ffffff" border="none" padding-bottom="0" padding-left="0px" padding-right="0px" >
+        <mj-section background-color="#E5F5FC" border="none" padding-bottom="0" padding-left="0px" padding-right="0px" >
         <mj-column width="50%">
         
         <mj-image align="center"  padding-bottom="0px" padding-left="26px" padding-right="26px" padding-top="0px"  src="https://i.ibb.co/tqj7R1N/button-1.png"width="500px" href="https://www.hw.ac.uk/malaysia/visit/chat-with-an-education-consultant.htm?fbclid=IwAR1QMcbEtcqzT9ELvSJObKcdEAbRoQoT1Xv7ecZWFgN_07z5D4MKVVrN2dQ" target="_blank"></mj-image>
@@ -96,7 +96,7 @@
 
          <!--date-->
 
-        <mj-section background-color="#ffffff" border="none" padding-bottom="0" padding-left="0px" padding-right="0px" >
+        <mj-section background-color="#E5F5FC" border="none" padding-bottom="0" padding-left="0px" padding-right="0px" >
         <mj-column width="100%">
 
         <mj-image align="left"  padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/yncDMDx/date.png"width="600px"></mj-image>
