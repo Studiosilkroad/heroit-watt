@@ -44,7 +44,10 @@
           
           <mj-text font-size="16px" font-weight="300" color="#14191F" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;"  line-height="22px">All SPM leavers, you have the assurance that our <strong>Foundation Programme</strong> can meet your needs. At <strong>Heriot-Watt University Malaysia</strong>, you can start the next stage of your education journey with ease and on your own terms. 
 
-      <br/><br/>Our <strong>Foundation Programme</strong> offers advantages no other programme does. Join our <strong>Open Day</strong> on <strong>17 &amp; 18 June 2023, 10am - 4pm</strong> by registering below and discover why our <strong>UK-based Foundation Programme</strong> is the ideal choice for your academic journey. </mj-text>  
+      <br/><br/>Discover the seamless path to your undergraduate studies with our exclusive <strong>Foundation Programme</strong>. Join us for our <strong>Open Day</strong> on <strong>17 and 18 June 2023, from 10 am to 4 pm</strong>, by registering below. 
+
+      <br/><br/>Explore why our <strong>UK-based Foundation Programme</strong> is the perfect choice for your academic journey and gain insights into the diverse options it offers for your future.
+        </mj-text>  
           <mj-spacer height="20px" />
          
         </mj-column>
@@ -60,7 +63,7 @@
         <mj-column width="100%" >
         <mj-spacer height="40px" />
         
-        <mj-image align="center"  padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/nfMTJ94/join-campus.png" width="600px" href="https://www.eventbrite.com/e/heriot-watt-university-malaysias-june-open-day-tickets-629007216517?aff=erelexpmlt" target="_blank" />
+        <mj-image align="center"  padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/7bzhMCh/join-campus.png" width="600px" href="https://www.eventbrite.com/e/heriot-watt-university-malaysias-june-open-day-tickets-629007216517?aff=erelexpmlt" target="_blank" />
       
         
         </mj-column>
@@ -77,7 +80,7 @@
         <mj-section background-color="#ffffff" border="none" padding-bottom="0" padding-left="36px" padding-right="36px" padding-top="0px" >
         <mj-column width="100%" >
         
-        <mj-image align="center"  padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/gm1qdCN/button-2.png" width="600px" href="https://www.hw.ac.uk/malaysia/visit/chat-with-an-education-consultant.htm" target="_blank" />
+        <mj-image align="center"  padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/MNSpC5K/button-2.png" width="600px" href="https://www.hw.ac.uk/malaysia/visit/chat-with-an-education-consultant.htm" target="_blank" />
       
         <mj-spacer height="40px" />
         </mj-column>
