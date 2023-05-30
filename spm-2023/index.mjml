@@ -80,7 +80,7 @@
         <mj-section background-color="#ffffff" border="none" padding-bottom="0" padding-left="36px" padding-right="36px" padding-top="0px" >
         <mj-column width="100%" >
         
-        <mj-image align="center"  padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/MNSpC5K/button-2.png" width="600px" href="https://www.hw.ac.uk/malaysia/visit/chat-with-an-education-consultant.htm" target="_blank" />
+        <mj-image align="center"  padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/j4YbWgW/button-2.png" width="600px" href="https://www.hw.ac.uk/malaysia/visit/chat-with-an-education-consultant.htm" target="_blank" />
       
         <mj-spacer height="40px" />
         </mj-column>
