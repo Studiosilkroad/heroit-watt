@@ -1,0 +1,219 @@
+<mjml>
+  <mj-head>
+  <mj-title>Open Day</mj-title>
+  </mj-head>
+    <mj-body background-color="#f6f6f6">
+      
+      <!---View in browswer-->
+      <!-- <mj-section background-color="#f6f6f6" border="none">
+        <mj-column>
+  
+  
+          <mj-text font-size="12px" color="#000000" font-family="Lato,Verdana,sans-serif" align="right" text-decoration="none"><a href="#" taregt="_blank" style="text-decoration: none; color: inherit;">VIEW IN BROWSER</a></mj-text>
+  
+        </mj-column>
+      </mj-section> -->
+      
+      
+      <!--header-->
+      
+      <mj-section background-repeat="repeat" background-color="#00305D" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
+        <mj-column>
+
+  
+          <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/0VY1H5w/header.png" href="https://www.hw.edu.my" target="_blank" width="600px"></mj-image>
+
+        </mj-column>
+      </mj-section>
+      
+      <!---BANNER-->
+      <mj-section background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
+        <mj-column>
+  
+  
+          <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/QdbnWTL/masthead.png" target="_blank" width="600px"></mj-image>
+
+        </mj-column>
+      </mj-section>
+      
+      
+    <!---BODY-->
+      <mj-section background-color="#003561" border="none" padding-bottom="0" padding-left="30px" padding-right="30px" >
+        <mj-column width="100%">
+        <mj-spacer height="10px" />
+          
+          <mj-image align="center"  padding-bottom="0px" padding-left="25px" padding-right="25px" padding-top="0px"  src="https://i.ibb.co/4PPdb2k/line.png"width="600px"></mj-image>
+          <mj-text font-size="22px" font-weight="700" color="#ffffff" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  line-height="30px">Are you looking for an exciting and
+enriching opportunity to expand your
+knowledge while immersing yourself in
+a vibrant culture? </mj-text>  
+
+
+          <mj-text font-size="16px" font-weight="300" color="#ffffff" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  line-height="22px">Join our <strong>2-week study programme in Malaysia</strong> for an
+unforgettable adventure where you'll have the chance to
+participate in a wide range of activities such as <strong>cultural
+workshops</strong>, <strong>language classes</strong>, and <strong>discovery tours</strong>. These
+activities will not only <strong>deepen your understanding and
+appreciation</strong> of <strong>Malaysian customs and traditions</strong>, but also
+provide you with <strong>valuable skills and experiences</strong> that you can
+apply to your studies and future career.</mj-text> 
+
+<mj-spacer height="20px" />
+
+
+<mj-image align="left"  padding-bottom="0px" padding-left="30px" padding-right="30px" padding-top="0px"  src="https://i.ibb.co/L1RhfQX/why-malaysia.png"width="170px"></mj-image>
+<mj-spacer height="20px" />
+<mj-image align="left"  padding-bottom="0px" padding-left="30px" padding-right="30px" padding-top="0px"  src="https://i.ibb.co/tcBS9CB/why-1.png"width="500px"></mj-image>
+<mj-spacer height="20px" />
+<mj-image align="left"  padding-bottom="0px" padding-left="30px" padding-right="30px" padding-top="0px"  src="https://i.ibb.co/23MVN9t/why-2.png"width="500px"></mj-image>
+<mj-spacer height="20px" />
+<mj-image align="left"  padding-bottom="0px" padding-left="30px" padding-right="30px" padding-top="0px"  src="https://i.ibb.co/7G9ySf7/why-3.png"width="500px"></mj-image>
+<mj-spacer height="20px" />
+<mj-image align="left"  padding-bottom="0px" padding-left="30px" padding-right="30px" padding-top="0px"  src="https://i.ibb.co/QkcNCwn/why-4.png"width="500px"></mj-image>
+          
+          
+          <mj-spacer height="30px" />
+         
+        </mj-column>
+        </mj-section>
+
+
+         
+        
+         <!--programme 1-->
+
+        <mj-section background-color="#ffffff" border="none" padding-bottom="0" padding-left="30px" padding-right="30px" >
+        <mj-column width="100%">
+        <mj-spacer height="10px" />
+        <mj-image align="center"  padding-bottom="0px" padding-left="25px" padding-right="25px" padding-top="0px"  src="https://i.ibb.co/mcpzL6N/line-dark.png"width="600px"></mj-image>
+        <mj-text font-size="22px" font-weight="700" color="#134473" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  line-height="30px">Programme 1: Understanding Malaysia </mj-text>  
+        
+      
+
+        <mj-text font-size="16px" font-weight="300" color="#134473" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  line-height="22px">Our programme is specifically designed for <strong>international students</strong> who are
+interested in <strong>learning the Malay language</strong> and <strong>understanding Malaysian
+culture</strong>! Throughout the week, you will be introduced to the fundamentals of
+<strong>Malay vocabulary</strong>, <strong>grammar</strong>, <strong>pronunciation</strong>, <strong>writing skills</strong> &amp; <strong>cultural studies</strong>.
+
+</mj-text> 
+
+<mj-text font-size="16px" font-weight="300" color="#134473" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  line-height="22px">Our <strong>interactive activities and exercises</strong> provide ample opportunities for you
+to practice what you have learned. You'll be equipped with knowledge in
+<strong>Malay language and culture</strong> that establishes a solid foundation, enabling you
+to confidently engage with <strong>Malaysian cultures and communities</strong>.
+
+</mj-text> 
+
+<mj-spacer height="10px" />
+        
+        
+        <mj-image align="center"  padding-bottom="0px" padding-left="30px" padding-right="30px" padding-top="0px"  src="https://i.ibb.co/pP6qxpQ/programme-1.png"width="600px"></mj-image>
+  
+
+    
+
+        </mj-column>
+
+
+        </mj-section>
+
+        <!--programme-->
+
+        <mj-section background-color="#ffffff" border="none" padding-bottom="0" padding-left="30px" padding-right="30px" >
+        <mj-column width="100%">
+        <mj-spacer height="10px" />
+        <mj-image align="center"  padding-bottom="0px" padding-left="25px" padding-right="25px" padding-top="0px"  src="https://i.ibb.co/mcpzL6N/line-dark.png"width="600px"></mj-image>
+        <mj-text font-size="22px" font-weight="700" color="#134473" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  line-height="30px">Programme 2: Discovering Malaysia</mj-text>  
+        
+      
+
+        <mj-text font-size="16px" font-weight="300" color="#134473" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  line-height="22px">Our programme offers a unique and exceptional chance for students to
+immerse themselves in the <strong>vibrant and diverse culture of Malaysia</strong> while 
+<strong>expanding their knowledge</strong>.</mj-text> 
+
+<mj-text font-size="16px" font-weight="300" color="#134473" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  line-height="22px">Through a variety of activities such as <strong>cultural workshops</strong>, <strong>history lessons</strong>,
+as well as <strong>visits to significant cultural and historical sites</strong>, you can gain a 
+<strong>profound understanding and appreciation</strong> of <strong>Malaysian customs</strong>, 
+<strong>traditions</strong>, and <strong>way of life</strong>.
+</mj-text> 
+
+<mj-spacer height="10px" />
+        
+        
+        <mj-image align="center"  padding-bottom="0px" padding-left="30px" padding-right="30px" padding-top="0px"  src="https://i.ibb.co/rd6z4rF/programme-2.png"width="600px"></mj-image>
+  
+    <mj-spacer height="30px" />
+    
+
+        </mj-column>
+
+
+        </mj-section>
+
+        <!--programme fees-->
+
+        <mj-section background-color="#009BD8" border="none" padding-bottom="0" padding-left="30px" padding-right="30px" >
+        <mj-column width="100%">
+
+        <mj-spacer height="20px" />
+
+     <mj-image align="left"  padding-bottom="0px" padding-left="30px" padding-right="30px" padding-top="0px"  src="https://i.ibb.co/Mh5vZ5n/programme-fee.png"width="170px"></mj-image>
+<mj-spacer height="20px" />
+
+<mj-image align="center"  padding-bottom="0px" padding-left="30px" padding-right="30px" padding-top="0px"  src="https://i.ibb.co/X8jfC0S/programme-fee-table.png"width="600px"></mj-image>
+  
+   
+
+    <mj-text font-size="12px" font-weight="300" color="#ffffff" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  line-height="18px " padding-left="30px" padding-right="30px">All current Heriot-Watt University students will enjoy a <strong>10% discount</strong>. For new students,
+enjoy the <strong>Early Bird discount of 10%</strong> when you apply before <strong>30 June 2023 &#40;for Intake 1&#41;</strong>
+and <strong>31 July 2023 &#40;for Intake 2&#41;</strong>.
+</mj-text> 
+
+
+        <mj-spacer height="40px" />
+        </mj-column>
+
+
+         
+
+
+       
+
+        </mj-section>
+
+        
+
+
+        <!--QR-->
+
+        <mj-section background-color="#ffffff" border="none" padding-bottom="0" padding-left="0px" padding-right="0px" >
+        <mj-column width="100%">
+        <mj-spacer height="20px" />
+        <mj-image align="center"  target="_blank" padding-bottom="20px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/GF3WGkH/qr.png" target="_blank" width="200px"></mj-image>
+        <mj-text font-size="16px" font-weight="300" color="#134473" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;"  line-height="22px">For immediate application, please contact us at <a href="mailto:summer_hwum@hw.ac.uk" target="_blank" style="text-decoration: none; color: #134473; font-weight: 700;">summer_hwum@hw.ac.uk</a>
+</mj-text> 
+
+      <mj-spacer height="20px" />
+        
+  </mj-column>
+  </mj-section>
+
+
+
+
+          
+
+
+      
+            
+     
+      
+
+      
+    
+
+
+      
+      
+    </mj-body>
+  </mjml>
