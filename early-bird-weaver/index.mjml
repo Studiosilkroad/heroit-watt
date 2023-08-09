@@ -42,9 +42,11 @@
         <mj-column width="100%">
           
           
-          <mj-text font-size="16px" font-weight="300" color="#ffffff" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;"  line-height="22px">Thank you for applying to further your education journey with us at Heriot-Watt University Malaysia. As our offer holder, we’d like to remind you that you are eligible for our <strong style="color:#FFB500;">Early Bird Waiver</strong> of <strong style="color:#FFB500;">RM4,000</strong> when you accept our offer and complete your 1st semester fees payment before <strong style="color:#FFB500;">20 August 2023</strong>.
-
-<br/><br/>If you have any questions or need guidance, our Education Consultants are here to assist you. Chat with them today to explore the exciting possibilities that await you!
+          <mj-text font-size="16px" font-weight="300" color="#ffffff" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;"  line-height="22px">
+          Thank you for applying to further your education journey with us at Heriot-Watt University Malaysia. As our offer holder, we like to remind you that you are eligible for our <strong style="color:#FFB500;">Early Bird Waiver</strong> of <strong style="color:#FFB500;">RM4,000</strong> when you accept our offer and your First-semester fees payment before 20 August 2023.
+          <br/><br/>
+          
+          If you have any future enquiries, speak to our Education Consultants. Make an appointment to speak with them today. 
 
 </mj-text>  
           <mj-spacer height="20px" />
@@ -82,20 +84,20 @@
 
         <!--row1-->
 
-         <mj-column width="50%" vertical-align="top">
+         <mj-column width="50%" vertical-align="middle">
          
         <!-- <mj-text font-size="11px" color="#333333" font-weight="300" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;"  line-height="18px">* Terms and Conditions apply</mj-text> -->
       
-        <mj-image align="center"  padding-bottom="0px" padding-top="30px"  src="https://i.ibb.co/WsCB1yK/scholarship-1.png"width="200px"></mj-image>
+        <mj-image align="center"  padding-bottom="0px" padding-top="50px"  src="https://i.ibb.co/tHh1Gks/scholarship-1.png"width="200px"></mj-image>
   
 
 
         </mj-column>
 
-        <mj-column width="50%" vertical-align="top">
+        <mj-column width="50%" vertical-align="middle">
          
 
-        <mj-image align="center"  padding-bottom="0px" padding-top="30px"  src="https://i.ibb.co/WD00dgS/scholarship-2.png"width="200px"></mj-image>
+        <mj-image align="center"  padding-bottom="0px" padding-top="30px"  src="https://i.ibb.co/3fqnPsz/scholarship-2.png"width="200px"></mj-image>
   
 
 
@@ -108,7 +110,7 @@
          <mj-column width="50%" vertical-align="top">
          
 
-        <mj-image align="center"  padding-bottom="0px" padding-top="30px"  src="https://i.ibb.co/VY0w3kw/scholarship-3.png"width="200px"></mj-image>
+        <mj-image align="center"  padding-bottom="0px" padding-top="50px"  src="https://i.ibb.co/D45gyzZ/scholarship-3.png"width="200px"></mj-image>
   
 
 
@@ -117,7 +119,7 @@
         <mj-column width="50%" vertical-align="top">
          
 
-        <mj-image align="center"  padding-bottom="0px" padding-top="30px"  src="https://i.ibb.co/YhBd6ZL/scholarship-4.png"width="200px"></mj-image>
+        <mj-image align="center"  padding-bottom="0px" padding-top="30px"  src="https://i.ibb.co/b1TYDk2/scholarship-4.png"width="250px"></mj-image>
   
 
 
@@ -130,7 +132,7 @@
          <mj-column width="100%" vertical-align="top">
          
 
-        <mj-image align="center"  padding-bottom="0px" padding-top="30px"  src="https://i.ibb.co/60p5CYj/scholarship-5.png"width="200px"></mj-image>
+        <mj-image align="center"  padding-bottom="0px" padding-top="30px"  src="https://i.ibb.co/60p5CYj/scholarship-5.png"width="250px"></mj-image>
   
 
 
