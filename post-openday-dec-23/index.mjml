@@ -82,7 +82,7 @@
         </mj-column>
 
         <mj-column width="50%">
-        <mj-image src="https://i.ibb.co/RBkPz0s/cta-2.png" width="500px" align="center"  padding-bottom="0px" padding-left="26px" padding-right="26px" padding-top="0px"  href="https://www.hw.ac.uk/malaysia/visit/chat-with-an-education-consultant.htm?fbclid=IwAR1QMcbEtcqzT9ELvSJObKcdEAbRoQoT1Xv7ecZWFgN_07z5D4MKVVrN2dQ" target="_blank"></mj-image>
+        <mj-image src="https://i.ibb.co/RBkPz0s/cta-2.png" width="500px" align="center"  padding-bottom="0px" padding-left="26px" padding-right="26px" padding-top="0px"  href="https://www.hw.ac.uk/malaysia/study/fees/scholarships.htm" target="_blank"></mj-image>
         <mj-spacer height="20px" />
         </mj-column>
 
