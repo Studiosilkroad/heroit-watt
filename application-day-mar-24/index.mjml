@@ -1,0 +1,233 @@
+<mjml>
+  <mj-head>
+    <mj-title>Application Day January 2024</mj-title>
+  </mj-head>
+  <mj-body background-color="#f6f6f6">
+
+    <!---View in browswer-->
+    <!-- <mj-section background-color="#f6f6f6" border="none">
+        <mj-column>
+  
+  
+          <mj-text font-size="12px" color="#000000" font-family="Lato,Verdana,sans-serif" align="right" text-decoration="none"><a href="#" taregt="_blank" style="text-decoration: none; color: inherit;">VIEW IN BROWSER</a></mj-text>
+  
+        </mj-column>
+      </mj-section> -->
+
+
+    <!--header-->
+
+    <mj-section background-repeat="repeat" background-color="#00305D" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
+      <mj-column>
+
+
+        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" src="https://i.ibb.co/0VY1H5w/header.png" href="https://www.hw.edu.my" target="_blank" width="600px"></mj-image>
+
+      </mj-column>
+    </mj-section>
+
+    <!---BANNER-->
+    <mj-section background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
+      <mj-column>
+
+
+        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" src="https://i.ibb.co/YtCyF3k/masthead.png" target="_blank" width="600px"></mj-image>
+
+      </mj-column>
+    </mj-section>
+
+
+    <!---BODY-->
+    <mj-section background-color="#ffffff" border="none" padding-bottom="0" padding-left="36px" padding-right="36px">
+      <mj-column width="100%">
+
+
+        <mj-text font-size="16px" font-weight="300" color="#003C71" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;" line-height="22px">If you have missed us during our last Open Day, come meet us this weekend on <strong>Application Day</strong>!
+
+<br/><br/>Whether you're a prospective <strong>foundation</strong>, <strong>undergraduate</strong> or <strong>postgraduate</strong> student, we welcome you to visit our lakeside campus and explore our <strong>purpose-driven programmes</strong>. 
+
+<br/><br/>Drop by and have a chat with our <strong>Education Consultants</strong> to kickstart your academic adventure.
+</mj-text>
+        <mj-spacer height="20px" />
+        <mj-image align="center" href="https://www.hw.ac.uk/malaysia/visit/chat-with-an-education-consultant.htm" target="_blank" padding-bottom="20px" padding-left="0px" padding-right="0px" padding-top="0px" src="https://i.ibb.co/CQr8Spt/cta-1.png" target="_blank" width="250px"></mj-image>
+
+      <mj-spacer height="20px" />
+      </mj-column>
+    </mj-section>
+
+
+
+
+
+    <!--programme-->
+
+    <mj-section background-color="#E4F4FB" border="none" padding-bottom="30px" padding-left="20px" padding-right="20px" padding-top="36px">
+      <mj-column width="100%">
+
+        <mj-image align="center" padding-bottom="0px" padding-left="10px" padding-right="10px" padding-top="0px" src="https://i.ibb.co/k8X3mvV/scholarship.png" width="550px" target="_blank" />
+
+       <mj-text font-size="16px" font-weight="300" color="#333333" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;" line-height="22px">Seamless transfer from Malaysia to UK and Dubai campsses
+</mj-text>
+<mj-spacer height="20px" />
+
+       
+
+
+      </mj-column>
+
+      
+
+      <!-- <mj-column width="50%">
+
+        
+ <mj-image align="center" padding-bottom="0px" padding-left="10px" padding-right="10px" padding-top="0px" src="https://i.ibb.co/fdPCztk/offered.png" width="300px" target="_blank" />
+
+
+       
+      </mj-column>
+ -->
+
+    </mj-section>
+
+
+    <!--Go global-->
+
+    <mj-section background-color="#FFFFFF" border="none" padding-bottom="0" padding-left="0px" padding-right="0px">
+      <mj-column width="100%">
+
+
+         <mj-image align="center" padding-bottom="0px" padding-left="10px" padding-right="10px" padding-top="20px" src="https://i.ibb.co/jwvnZhz/go-global-title.png" width="200px" target="_blank" />
+
+
+       <mj-spacer height="10px" />
+       <mj-text font-size="16px" padding-left="30px" padding-right="30px" font-weight="300" color="#14191F" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;" line-height="22px">Study abroad seamlessly throughout our
+<br/><strong>global campuses!</strong></mj-text>
+        <mj-spacer height="10px" />
+
+    
+        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" src="https://i.ibb.co/37P8nCt/go-global-content.png" width="600px"></mj-image>
+     
+
+       
+
+       
+
+      </mj-column>
+
+
+    </mj-section>
+
+
+    <!--register now cta-->
+
+    <mj-section background-color="#ffffff" border="none" padding-bottom="0" padding-left="0px" padding-right="0px">
+      <mj-column width="100%">
+        <mj-spacer height="20px" />
+
+        <mj-image align="center" href="#" target="_blank" padding-bottom="20px" padding-left="0px" padding-right="0px" padding-top="0px" src="https://i.ibb.co/pKHnNPh/cta-2.png" target="_blank" width="200px"></mj-image>
+        <mj-spacer height="20px" />
+
+      </mj-column>
+    </mj-section>
+
+
+
+
+
+
+
+
+
+    <!---SOCIAL-->
+
+    <mj-section background-color="#00305D" padding-bottom="0px" padding-top="20px">
+      <mj-column width="100%" padding-left="0px" padding-right="0px" padding-bottom="0px">
+
+        <mj-text font-size="14px" color="#ffffff" font-weight="900" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;" line-height="18px">Follow us on</mj-text>
+      </mj-column>
+
+    </mj-section>
+
+    <!---social-->
+    <mj-section background-color="#00305D" padding-bottom="0px" padding-top="5px" padding-right="150px" padding-left="150px">
+
+      <mj-column width="20%">
+        <mj-image href="https://www.facebook.com/hwumalaysia" src="https://i.ibb.co/MRqV549/facebook.png" alt="facebook logo" width="30px" padding="0 0 10px 0"></mj-image>
+      </mj-column>
+      <mj-column width="20%">
+        <mj-image href="https://www.linkedin.com/school/heriot-watt-university-malaysia/" src="https://i.ibb.co/bXz0hVm/linkedin.png" alt="linkedin logo" width="30px" padding="0 0 10px 0"></mj-image>
+      </mj-column>
+      <mj-column width="20%">
+        <mj-image href="https://www.instagram.com/heriotwattmalaysia/" src="https://i.ibb.co/84bZ14T/instagram.png" alt="instagram logo" width="30px" padding="0 0 10px 0"></mj-image>
+      </mj-column>
+      <mj-column vertical-align="bottom" width="20%">
+        <mj-image href="https://www.youtube.com/channel/UCF8UPw6wztmd3hg6JNA_KLg" src="https://i.ibb.co/p123DGL/youtube.png" alt="youtube logo" width="40px" padding="0 0 10px 0"></mj-image>
+      </mj-column>
+       <mj-column width="20%">
+        <mj-image href="https://twitter.com/HWUMalaysia" src="https://i.ibb.co/phTV2tQ/x-logo.png" alt="instagram logo" width="30px" padding="0 0 10px 0"></mj-image>
+      </mj-column>
+
+    </mj-section>
+
+    <!--cmapus-->
+
+    <mj-section background-color="#00305D" padding-bottom="0px" padding-top="10px" padding-right="0px" padding-left="0px">
+
+      <mj-column width="100%" padding-left="10px" padding-right="10px" padding-bottom="0px">
+
+        <mj-text font-size="13px" color="#ffffff" font-weight="300" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;" line-height="18px">Find contact details, maps and directions for:</mj-text>
+      </mj-column>
+
+    </mj-section>
+    <mj-section background-color="#00305D" padding-bottom="20px" padding-top="0px" padding-right="30px" padding-left="30px">
+
+      <mj-column width="30%">
+        <mj-image href="https://www.hw.ac.uk/uk/about/contact/maps-directions.htm?dm_t=0,0,0,0,0" src="https://i.ibb.co/Jq3TnCb/link-1.png" alt="uk campus" width="500px" padding="0 0 0 0"></mj-image>
+
+      </mj-column>
+      <mj-column width="36%">
+        <mj-image href="https://www.hw.ac.uk/malaysia/about/contact-us.htm?dm_t=0,0,0,0,0" src="https://i.ibb.co/tmGBzxH/link-2.png" alt="malaysia campus" width="500px" padding="0 10px 0 0"></mj-image>
+
+      </mj-column>
+      <mj-column width="30%">
+        <mj-image href="https://www.hw.ac.uk/dubai/visit-us.htm?dm_t=0,0,0,0,0" src="https://i.ibb.co/9YXjLyf/link-3.png" alt="dubai campus" width="500px" padding="0 0 0 0"></mj-image>
+
+      </mj-column>
+
+    </mj-section>
+
+    <!---text-->
+
+
+    <mj-section background-color="#00305D" padding-bottom="0px" padding-top="0px" padding-right="30px" padding-left="30px">
+
+      <mj-column width="100%" padding-left="0px" padding-right="0px" padding-bottom="0px">
+        <mj-spacer height="0px" />
+        <mj-text font-size="13px" color="#ffffff" font-weight="900" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;" line-height="18px">Heriot-Watt University Malaysia &#40;DULN007&#40;WP&#41;&#41;<br />No. 1, Jalan Venna P5/2, Precinct 5, Putrajaya, Wilayah Persekutuan, <br />62200 Putrajaya, Malaysia. <br />Tel:&nbsp;+603&nbsp;8894&nbsp;3888</mj-text>
+
+      </mj-column>
+
+    </mj-section>
+    <mj-section background-color="#00305D" padding-bottom="20px" padding-top="0px" padding-right="30px" padding-left="30px">
+
+
+
+      <mj-column width="100%" padding-left="10px" padding-right="10px" padding-bottom="0px">
+
+        <mj-text font-size="11px" color="#ffffff" font-weight="300" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;" line-height="18px">Scottish registered charity number: SC000278</mj-text>
+        <mj-text font-size="11px" color="#ffffff" font-weight="300" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;" line-height="18px"><a style="color: #ffffff; text-decoration: underline;" data-msys-unsubscribe="1" href="https://www.hw.ac.uk/unsubscribed.htm">Unsubscribe</a></mj-text>
+      </mj-column>
+
+
+
+    </mj-section>
+
+
+
+
+
+
+
+
+  </mj-body>
+</mjml>
