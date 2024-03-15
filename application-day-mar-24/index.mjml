@@ -66,7 +66,7 @@
 
         <mj-image align="center" padding-bottom="0px" padding-left="10px" padding-right="10px" padding-top="0px" src="https://i.ibb.co/k8X3mvV/scholarship.png" width="550px" target="_blank" />
 
-       <mj-text font-size="16px" font-weight="300" color="#333333" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;" line-height="22px">Seamless transfer from Malaysia to UK and Dubai campsses
+       <mj-text font-size="16px" font-weight="300" color="#333333" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;" line-height="22px">* Terms &amp; Conditions apply.
 </mj-text>
 <mj-spacer height="20px" />
 
@@ -100,8 +100,7 @@
 
 
        <mj-spacer height="10px" />
-       <mj-text font-size="16px" padding-left="30px" padding-right="30px" font-weight="300" color="#14191F" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;" line-height="22px">Study abroad seamlessly throughout our
-<br/><strong>global campuses!</strong></mj-text>
+       <mj-text font-size="16px" padding-left="30px" padding-right="30px" font-weight="300" color="#14191F" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;" line-height="22px">Seamless transfer from <br/>Malaysia to UK and Dubai campuses</strong></mj-text>
         <mj-spacer height="10px" />
 
     
