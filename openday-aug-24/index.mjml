@@ -1,0 +1,404 @@
+<mjml>
+  <mj-head>
+  <mj-title>Open Day</mj-title>
+  </mj-head>
+    <mj-body background-color="#f6f6f6">
+      
+      <!---View in browswer-->
+      <!-- <mj-section background-color="#f6f6f6" border="none">
+        <mj-column>
+  
+  
+          <mj-text font-size="12px" color="#000000" font-family="Lato,Verdana,sans-serif" align="right" text-decoration="none"><a href="#" taregt="_blank" style="text-decoration: none; color: inherit;">VIEW IN BROWSER</a></mj-text>
+  
+        </mj-column>
+      </mj-section> -->
+      
+      
+      <!--header-->
+      
+      <!-- <mj-section background-repeat="repeat" background-color="#00305D" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
+        <mj-column>
+  
+  
+          <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/0VY1H5w/header.png" href="https://www.hw.edu.my" target="_blank" width="600px"></mj-image>
+
+        </mj-column>
+      </mj-section> -->
+      
+      <!---BANNER-->
+      <mj-section background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
+        <mj-column>
+  
+  
+          <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/rfKFWQx/masthead.png" target="_blank" width="600px"></mj-image>
+
+        </mj-column>
+      </mj-section>
+      
+      
+    <!---BODY-->
+      <mj-section background-color="#E5F5FC" border="none" padding-bottom="0" padding-left="10px" padding-right="30px" text-align="left" >
+        <mj-column width="80%">
+          
+          
+          <mj-text font-size="20px" font-weight="500" color="#14191F" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  line-height="25px">Experience the vibrant academic landscape and promising opportunities at Heriot-Watt University Malaysia. </mj-text>  
+         
+         
+        </mj-column>
+        </mj-section>
+
+         <mj-section background-color="#E5F5FC" border="none" padding-bottom="0" padding-left="30px" padding-right="30px" padding-top="0" text-align="right" >
+        <mj-column width="90%">
+          
+          
+          <mj-text font-size="16px" font-weight="300" color="#14191F" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  line-height="22px">Our <span style="font-weight: 500;">Open Day</span> offers a first-hand glimpse of diverse academic programmes, top-notch facilities, and exceptional learning experiences, designed to be driven by purpose.
+
+<br/><br/>Discover a world of possibilities with our wide range of
+programmes such as  <span style="font-weight: 500;">engineering, business, finance, psychology, mathematics,</span> and  <span style="font-weight: 500;">computer sciences</span>. Take the first step towards your future through our  <span style="font-weight: 500;">foundation programmes</span>, designed to
+set you on the path to success.
+
+ </mj-text>  
+          <mj-spacer height="20px" />
+         
+        </mj-column>
+        </mj-section>
+
+
+        
+
+
+        <!--join us on campus-->
+
+        <mj-section background-color="#003C71" border="none" padding-bottom="0" padding-left="0px" padding-right="0px" padding-top="0px" >
+        <mj-column width="100%" >
+        
+        <mj-image align="center"  padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/x79CFwc/campus.png" width="600px" target="_blank" />
+      
+        
+        </mj-column>
+
+
+
+        </mj-section>
+
+
+
+        <mj-section background-color="#B25A22" border="none" padding-bottom="0" padding-left="0px" padding-right="0px" padding-top="0px" >
+        <mj-column width="50%" >
+        
+          <mj-text font-size="20px" container-background-color="#E38C33" font-weight="500" color="#ffffff" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  padding-top="25px" padding-bottom="25px" line-height="22px">Join us on-campus on:<br/><br/>
+        <span style="color: #ffffff; font-weight: 300; font-size: 16px;">Date: 03 &amp; 04 August 2024
+<br/>Time: 10am - 4pm
+<br/>Venue: Heriot-Watt University Malaysia, Putrajaya<br/><br/>
+        <!-- <span style="color: #ffffff; font-weight: 700;">Time:</span> 10am - 4pm<br/><br/>
+        <span style="color: #ffffff; font-weight: 700;">Venue:</span> Heriot-Watt University Malaysia, Putrajaya campus -->
+        
+        </mj-text>
+
+        </mj-column>
+
+        <mj-column width="50%">
+
+        <mj-text font-size="18px" container-background-color="#B25A22" font-weight="500" color="#ffffff" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  padding-top="25px" padding-bottom="25px" line-height="22px">
+        Visit us to learn more about our purpose-driven programmes:
+        
+        </mj-text>
+
+        <mj-image align="left" href="https://gck.fm/akanr" target="_blank" padding-bottom="20px" padding-left="20px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/LY18TwB/btn-1.png" target="_blank" width="120px"></mj-image>
+        
+
+        <!-- <mj-text font-size="16px" container-background-color="#003C71" font-weight="300" color="#ffffff" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;"  line-height="22px"><span style="color: #FFB500; font-weight: 700;">Date:</span> 1 &amp; 2 April 2023</mj-text> 
+        <mj-text font-size="16px" container-background-color="#003C71" font-weight="300" color="#ffffff" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;"  line-height="22px"><span style="color: #FFB500; font-weight: 700;">Time:</span> 10am - 4pm</mj-text> 
+        <mj-text font-size="16px" container-background-color="#003C71" font-weight="300" color="#ffffff" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;"  line-height="22px"><span style="color: #FFB500; font-weight: 700;">Venue:</span> 1 &amp; Heriot-Watt University Malaysia, Putrajaya campus3</mj-text>   -->
+        
+        </mj-column>
+
+
+        </mj-section>
+
+        <!--Scholarship-->
+
+        <mj-section background-color="#ffffff" border="none" padding-bottom="0" padding-left="10px" padding-right="30px" text-align="left" >
+        <mj-column width="80%">
+          
+          
+          <mj-text font-size="20px" font-weight="500" color="#14191F" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  line-height="30px">Our Scholarships </mj-text>  
+         
+         
+        </mj-column>
+        
+        </mj-section>
+
+         <mj-section background-color="#ffffff" border="none" padding-bottom="0" padding-left="30px" padding-right="30px" padding-top="0" text-align="right" >
+        <mj-column width="90%">
+
+        <!--first content-->
+          <mj-image align="right"  padding-bottom="0px" padding-left="20px" padding-right="30px" padding-top="0px"  src="https://i.ibb.co/y8Xb1QT/line.png"width="600px"></mj-image>
+  
+          
+          <mj-text font-size="20px" font-weight="500" color="#009FE1" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  line-height="22px" padding-bottom="0">
+          Up to <strong>RM76,000</strong>
+          </mj-text>  
+          <mj-text font-size="14px" font-weight="500" color="#14191F" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  line-height="22px" padding-top="0" padding-bottom="0">
+          Engineering Exclusive Scholarship*
+          </mj-text>  
+          <mj-text font-size="14px" font-weight="500" color="#009FE1" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  line-height="22px" padding-top="0" padding-bottom="0">
+          -
+          </mj-text>  
+          <mj-text font-size="14px" font-weight="300" color="#14191F" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  line-height="22px" padding-top="0" padding-bottom="0">
+          For applicants who are interested in progressing into our engineering undergraduate programmes at Heriot-Watt University Malaysia.
+          </mj-text>  
+
+          <mj-spacer height="20px" />
+
+          <mj-image align="right"  padding-bottom="10px" padding-left="20px" padding-right="30px" padding-top="0px"  src="https://i.ibb.co/y8Xb1QT/line.png"width="600px"></mj-image>
+  
+   <!--second content-->
+         
+          <mj-text font-size="20px" font-weight="500" color="#009FE1" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  line-height="22px" padding-bottom="0">
+          Up to <strong>RM60,000</strong> 
+          </mj-text>  
+          <mj-text font-size="14px" font-weight="500" color="#14191F" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  line-height="22px" padding-top="0" padding-bottom="0">
+          Foundation Excellence Award*
+          </mj-text>  
+          <mj-text font-size="14px" font-weight="500" color="#009FE1" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  line-height="22px" padding-top="0" padding-bottom="0">
+          -
+          </mj-text>  
+          <mj-text font-size="14px" font-weight="300" color="#14191F" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  line-height="22px" padding-top="0" padding-bottom="0">
+          Applicable for your entire undergraduate programme when you continue with us.
+          </mj-text>  
+
+          <mj-spacer height="20px" />
+
+          <mj-image align="right"  padding-bottom="10px" padding-left="20px" padding-right="30px" padding-top="0px"  src="https://i.ibb.co/y8Xb1QT/line.png"width="600px"></mj-image>
+  
+  <!--third content-->
+         
+          <mj-text font-size="20px" font-weight="500" color="#009FE1" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  line-height="20px" padding-bottom="0">
+          <strong>RM5,000</strong> Scholarship Per Year
+          </mj-text>  
+          <mj-text font-size="14px" font-weight="500" color="#14191F" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  line-height="20px" padding-top="0" padding-bottom="0">
+          Foundation Progression Discount*
+          </mj-text>  
+          <mj-text font-size="14px" font-weight="500" color="#009FE1" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  line-height="20px" padding-top="0" padding-bottom="0">
+          -
+          </mj-text>  
+          <mj-text font-size="14px" font-weight="300" color="#14191F" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  line-height="20px" padding-top="0" padding-bottom="0">
+          For all students in our Foundation programme, at each year of their undergraduate studies with us.
+          </mj-text>  
+
+          <mj-spacer height="20px" />
+
+          <mj-image align="right"  padding-bottom="10px" padding-left="20px" padding-right="30px" padding-top="0px"  src="https://i.ibb.co/y8Xb1QT/line.png"width="600px"></mj-image>
+  
+  <!--third_1 content-->
+         
+          <mj-text font-size="20px" font-weight="500" color="#009FE1" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  line-height="20px" padding-bottom="0">
+          Up to <strong>RM12,000</strong> Scholarship Per Year
+          </mj-text>  
+          <mj-text font-size="14px" font-weight="500" color="#14191F" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  line-height="20px" padding-top="0" padding-bottom="0">
+          High Achiever's Scholarship*
+          </mj-text>  
+          <mj-text font-size="14px" font-weight="500" color="#009FE1" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  line-height="20px" padding-top="0" padding-bottom="0">
+          -
+          </mj-text>  
+          <mj-text font-size="14px" font-weight="300" color="#14191F" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  line-height="20px" padding-top="0" padding-bottom="0">
+          Accepts a wide range of qualifications and subjected to further assessment from Heriot-Watt University Malaysia.
+          </mj-text>  
+
+          <mj-spacer height="20px" />
+
+          <mj-image align="right"  padding-bottom="10px" padding-left="20px" padding-right="30px" padding-top="0px"  src="https://i.ibb.co/y8Xb1QT/line.png"width="600px"></mj-image>
+  
+  
+  <!--forth content-->
+         
+          <mj-text font-size="20px" font-weight="500" color="#009FE1" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  line-height="10px" padding-bottom="0">
+          <strong>100% </strong>Tuition Fee Waiver
+          </mj-text>  
+          <mj-text font-size="16px" font-weight="500" color="#009FE1" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  line-height="20px" padding-bottom="0">
+          Up to <strong>RM1,300</strong> Cost-of-Living Allowance
+          </mj-text>  
+          <mj-text font-size="14px" font-weight="500" color="#14191F" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  line-height="22px" padding-top="0" padding-bottom="0">
+          Leaders with Impact Scholarship*
+          </mj-text>  
+          <mj-text font-size="14px" font-weight="500" color="#009FE1" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  line-height="20px" padding-top="0" padding-bottom="0">
+          -
+          </mj-text>  
+          <mj-text font-size="14px" font-weight="300" color="#14191F" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  line-height="20px" padding-top="0" padding-bottom="0">
+          Nurtures the progress and growth of talented and promising Malaysian youths from the lower income segment, regardless of background or circumstances.
+          </mj-text>  
+
+          <mj-spacer height="20px" />
+
+          <mj-image align="right"  padding-bottom="10px" padding-left="20px" padding-right="30px" padding-top="0px"  src="https://i.ibb.co/y8Xb1QT/line.png"width="600px"></mj-image>
+  
+  <!--fifth content-->
+         
+          <mj-text font-size="20px" font-weight="500" color="#009FE1" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  line-height="22px" padding-bottom="0">
+        Up to <strong>50%</strong> Tuition Fee Waiver
+          </mj-text>  
+          <mj-text font-size="14px" font-weight="500" color="#14191F" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  line-height="22px" padding-top="0" padding-bottom="0">
+          Women in Science and Engineering &#40;WISE&#41; Scholarship*
+          </mj-text>  
+          <mj-text font-size="14px" font-weight="500" color="#009FE1" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  line-height="20px" padding-top="0" padding-bottom="0">
+          -
+          </mj-text>  
+          <mj-text font-size="14px" font-weight="300" color="#14191F" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  line-height="20px" padding-top="0" padding-bottom="0">
+          Committed to widening access and reducing the gender gap in STEM, the Women in Science and Engineering &#40;WISE&#41; Scholarship is especially for women who want to pursue a career in Engineering and Science.
+          </mj-text>  
+
+          <mj-spacer height="20px" />
+
+          <mj-image align="right"  padding-bottom="10px" padding-left="20px" padding-right="30px" padding-top="0px"  src="https://i.ibb.co/y8Xb1QT/line.png"width="600px"></mj-image>
+        <mj-text font-size="14px" font-weight="300" color="#14191F" font-family="Lato,Verdana,sans-serif" align="left" text-decoration="none;"  line-height="22px" padding-top="0" padding-bottom="0">
+          <em>*Terms &amp; conditions apply</em>
+          </mj-text>  
+
+          <mj-spacer height="20px" />
+
+  <!--scolarship ends-->
+         
+        </mj-column>
+        </mj-section>
+         
+        
+      
+        <!--date 2-->
+
+        <mj-section background-color="#FCE4F4" border="none" padding-bottom="0" padding-left="0px" padding-right="0px" >
+        <mj-column width="100%">
+
+        
+
+        <mj-image align="center"  padding-bottom="20px" padding-left="20px" padding-right="30px" padding-top="0px"  src="https://i.ibb.co/544RDcq/goglobal.png"width="200px"></mj-image>
+       
+        <mj-text font-size="16px" font-weight="300" color="#14191F" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;"  line-height="20px" padding-top="0" padding-bottom="0">
+          Seamless transfer from Malaysia to <span style="font-weight:500;">UK</span> and <span style="font-weight:500;">Dubai</span> campuses
+          </mj-text>  
+        <mj-image align="center"  padding-bottom="0px" padding-left="30px" padding-right="30px" padding-top="0px"  src="https://i.ibb.co/ZGRn1Lg/global-visual.png" width="500px"></mj-image>
+  
+    <mj-spacer height="40px" />
+
+        </mj-column>
+
+
+        </mj-section>
+
+
+        <!--register now cta-->
+
+        <mj-section background-color="#ffffff" border="none" padding-bottom="0" padding-left="0px" padding-right="0px" >
+        <mj-column width="100%">
+        <mj-spacer height="20px" />
+        
+        <mj-image align="center" href="https://gck.fm/akanr" target="_blank" padding-bottom="20px" padding-left="0px" padding-right="0px" padding-top="0px"  src="https://i.ibb.co/tH5GtMd/main-cta.png" target="_blank" width="180px"></mj-image>
+      <mj-spacer height="20px" />
+        
+  </mj-column>
+  </mj-section>
+
+
+
+
+          
+
+
+      
+            
+      <!---SOCIAL-->
+
+    <mj-section background-color="#031B39" padding-bottom="0px" padding-top="20px">
+      <mj-column width="100%" padding-left="0px" padding-right="0px" padding-bottom="0px">
+
+        <mj-text font-size="14px" color="#ffffff" font-weight="900" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;" line-height="18px">Follow us on</mj-text>
+      </mj-column>
+
+    </mj-section>
+
+    <!---social-->
+    <mj-section background-color="#031B39" padding-bottom="0px" padding-top="5px" padding-right="150px" padding-left="150px">
+
+      <mj-column width="20%">
+        <mj-image href="https://www.facebook.com/hwumalaysia" src="https://i.ibb.co/Q6R5wj1/fb.png" alt="facebook logo" width="40px" padding="0 0 10px 0"></mj-image>
+      </mj-column>
+      <mj-column width="20%">
+        <mj-image href="https://twitter.com/HWUMalaysia" src="https://i.ibb.co/sy41VJ4/x.png" alt="instagram logo" width="40px" padding="0 0 10px 0"></mj-image>
+      </mj-column>
+      <!-- <mj-column width="20%">
+        <mj-image href="https://www.linkedin.com/school/heriot-watt-university-malaysia/" src="https://i.ibb.co/bXz0hVm/linkedin.png" alt="linkedin logo" width="30px" padding="0 0 10px 0"></mj-image>
+      </mj-column> -->
+      <mj-column width="20%">
+        <mj-image href="https://www.instagram.com/heriotwattmalaysia/" src="https://i.ibb.co/pjJhndY/ig.png" alt="instagram logo" width="40px" padding="0 0 10px 0"></mj-image>
+      </mj-column>
+      <mj-column vertical-align="bottom" width="20%">
+        <mj-image href="https://www.youtube.com/channel/UCF8UPw6wztmd3hg6JNA_KLg" src="https://i.ibb.co/68QrKHR/yt.png" alt="youtube logo" width="40px" padding="0 0 10px 0"></mj-image>
+      </mj-column>
+       
+
+    </mj-section>
+
+    <!--cmapus-->
+
+    <mj-section background-color="#031B39" padding-bottom="0px" padding-top="10px" padding-right="0px" padding-left="0px">
+
+      <mj-column width="100%" padding-left="10px" padding-right="10px" padding-bottom="0px">
+
+        <mj-text font-size="13px" color="#ffffff" font-weight="300" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;" line-height="18px">Find contact details, maps and directions for:</mj-text>
+      </mj-column>
+
+    </mj-section>
+    <mj-section background-color="#031B39" padding-bottom="20px" padding-top="0px" padding-right="30px" padding-left="30px">
+
+      <mj-column width="30%">
+        <mj-image href="https://www.hw.ac.uk/uk/about/contact/maps-directions.htm?dm_t=0,0,0,0,0" src="https://i.ibb.co/89Wjg36/uk.png" alt="uk campus" width="500px" padding="0 0 0 0"></mj-image>
+
+      </mj-column>
+      <mj-column width="36%">
+        <mj-image href="https://www.hw.ac.uk/malaysia/about/contact-us.htm?dm_t=0,0,0,0,0" src="https://i.ibb.co/0DwQ2sw/my.png" alt="malaysia campus" width="500px" padding="0 10px 0 0"></mj-image>
+
+      </mj-column>
+      <mj-column width="30%">
+        <mj-image href="https://www.hw.ac.uk/dubai/visit-us.htm?dm_t=0,0,0,0,0" src="https://i.ibb.co/N75zxJh/dubai.png" alt="dubai campus" width="500px" padding="0 0 0 0"></mj-image>
+
+      </mj-column>
+
+    </mj-section>
+
+    <!---text-->
+
+
+    <mj-section background-color="#031B39" padding-bottom="0px" padding-top="0px" padding-right="30px" padding-left="30px">
+
+      <mj-column width="100%" padding-left="0px" padding-right="0px" padding-bottom="0px">
+        <mj-spacer height="0px" />
+        <mj-text font-size="13px" color="#ffffff" font-weight="900" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;" line-height="18px">Heriot-Watt University Malaysia &#40;DULN007&#40;WP&#41;&#41;<br />No. 1, Jalan Venna P5/2, Precinct 5, Putrajaya, Wilayah Persekutuan, <br />62200 Putrajaya, Malaysia. <br />Tel:&nbsp;+603&nbsp;8894&nbsp;3888</mj-text>
+
+      </mj-column>
+
+    </mj-section>
+    <mj-section background-color="#031B39" padding-bottom="20px" padding-top="0px" padding-right="30px" padding-left="30px">
+
+
+
+      <mj-column width="100%" padding-left="10px" padding-right="10px" padding-bottom="0px">
+
+        <mj-text font-size="11px" color="#ffffff" font-weight="300" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;" line-height="18px">Scottish registered charity number: SC000278</mj-text>
+        <mj-text font-size="11px" color="#ffffff" font-weight="300" font-family="Lato,Verdana,sans-serif" align="center" text-decoration="none;" line-height="18px"><a style="color: #ffffff; text-decoration: underline;" data-msys-unsubscribe="1" href="https://www.hw.ac.uk/unsubscribed.htm">Unsubscribe</a></mj-text>
+      </mj-column>
+
+
+
+    </mj-section>
+
+      
+
+      
+    
+
+
+      
+      
+    </mj-body>
+  </mjml>
